@@ -1,2 +1,4 @@
-Este projeto é utilizado para apresentar a utilização do uso das associações por Foreign Key (Chave Estrangeira) e Independent Associations (Associação independente).
-Mais informações no artigo que publiquei no blog http://cleytonferrari.com/chave-estrangeira-e-associacao-independente-no-entity-framework/
+Entity Framework - Foreign Key
+===========
+Este projeto Ã© utilizado para apresentar a utilizaÃ§Ã£o do uso das associaÃ§Ãµes por Foreign Key (Chave Estrangeira) e Independent Associations (AssociaÃ§Ã£o independente).
+Mais informaÃ§Ãµes no artigo que publiquei no blog http://cleytonferrari.com/chave-estrangeira-e-associacao-independente-no-entity-framework/
